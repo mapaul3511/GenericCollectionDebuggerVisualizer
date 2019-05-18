@@ -1,0 +1,6 @@
+Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\Example\bin\Debug\Example.exe.config
+Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\Example\bin\Debug\Example.exe
+Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\Example\bin\Debug\Example.pdb
+Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\Example\obj\Debug\Example.exe
+Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\Example\obj\Debug\Example.pdb
