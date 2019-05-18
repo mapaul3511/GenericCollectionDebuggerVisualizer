@@ -7,3 +7,10 @@ Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollect
 Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollectionDebuggerVisualizer.dll
 Y:\Documents\GitHub\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollectionDebuggerVisualizer.pdb
 C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Packages\Debugger\Visualizers\GenericCollectionDebuggerVisualizer.dll
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\bin\Debug\GenericCollectionDebuggerVisualizer.dll
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\bin\Debug\GenericCollectionDebuggerVisualizer.pdb
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollectionDebuggerVisualizer.DictionaryVisualizerForm.resources
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollectionDebuggerVisualizer.ListVisualizerForm.resources
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollectionDebuggerVisualizer.csproj.GenerateResource.Cache
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollectionDebuggerVisualizer.dll
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\obj\Debug\GenericCollectionDebuggerVisualizer.pdb

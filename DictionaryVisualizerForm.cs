@@ -84,6 +84,7 @@ namespace GenericCollectionDebuggerVisualizer
             foreach (var key in dic.Keys)
             {
                 TreeNode node = nodes.Add(GenerateNodeText(key));
+                dicNodeDataObjectMap.Add(node, key);
 
                 object value = dic[key];
 
@@ -265,7 +266,7 @@ namespace GenericCollectionDebuggerVisualizer
 
         private bool IsDirectPrintableType(object value)
         {
-            return value.GetType().IsPrimitive || value is decimal || value is double || value is float || value is DateTime;
+            return value.GetType().IsPrimitive || value.GetType().IsEnum || value is decimal || value is double || value is float || value is DateTime;
         }
 
         private void ShowPrimitiveValueOnGrid(object dataObject)

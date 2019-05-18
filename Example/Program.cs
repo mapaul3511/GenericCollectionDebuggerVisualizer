@@ -54,6 +54,47 @@ namespace Example
 
             dicCompany.Add("Sales", dicDept);
 
+            lstEmployees = new List<Employee>()
+            {
+                new Employee()
+                {
+                    Id = "R001",
+                    Name = "John",
+                    Age = 40,
+                    Gender = Gender.Male
+                },
+                new Employee()
+                {
+                    Id = "R002",
+                    Name = "AMy",
+                    Age = 35,
+                    Gender = Gender.Female
+                },
+                new Employee()
+                {
+                    Id = "R003",
+                    Name = "Jack",
+                    Age = 28,
+                    Gender = Gender.Male
+                }
+            };
+
+            dicDept = new Dictionary<Department, List<Employee>>()
+            {
+                {
+                    new Department()
+                    {
+                        Id = "DEPT2",
+                        Name = "Development",
+                        CreateDate = new DateTime(2018, 2, 19),
+                        MemberCount = 3
+                    },
+                    lstEmployees
+                }
+            };
+
+            dicCompany.Add("Development", dicDept);
+
             Console.WriteLine(dicCompany);
         }
     }
