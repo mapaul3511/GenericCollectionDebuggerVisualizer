@@ -10,3 +10,6 @@ C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\
 C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
 C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\Example\obj\Debug\Example.exe
 C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\Example\obj\Debug\Example.pdb
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\Example\bin\Debug\Dapper.dll
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\Example\bin\Debug\Dapper.pdb
+C:\Users\mapaul\Visual Studio 2012\Projects\GenericCollectionDebuggerVisualizer\Example\bin\Debug\Dapper.xml
